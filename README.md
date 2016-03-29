@@ -1,4 +1,6 @@
 # hello-world
+RRRRRRRR
+TTTTTTTT
 It is a simple exercise that gets you started when learning something new. 
 
 Managing your finances with smartbank is easy 
